@@ -1,0 +1,16 @@
+sorgu,konu,yontem,precision@7,recall@7,ilgili_sayisi
+kamu yönetimi,Kamu Yönetimi,bm25,0.14285714285714285,1.0,1
+kamu yönetimi,Kamu Yönetimi,dense,0.14285714285714285,1.0,1
+kamu yönetimi,Kamu Yönetimi,hibrit,0.14285714285714285,1.0,1
+eğitim,Eğitim,bm25,0.14285714285714285,1.0,1
+eğitim,Eğitim,dense,0.14285714285714285,1.0,1
+eğitim,Eğitim,hibrit,0.14285714285714285,1.0,1
+spor bilimleri,Spor Bilimleri,bm25,0.14285714285714285,1.0,1
+spor bilimleri,Spor Bilimleri,dense,0.0,0.0,1
+spor bilimleri,Spor Bilimleri,hibrit,0.14285714285714285,1.0,1
+etik,Etik,bm25,0.2857142857142857,1.0,2
+etik,Etik,dense,0.2857142857142857,1.0,2
+etik,Etik,hibrit,0.2857142857142857,1.0,2
+yapay zeka,,bm25,1.0,0.3181818181818182,22
+yapay zeka,,dense,1.0,0.3181818181818182,22
+yapay zeka,,hibrit,1.0,0.3181818181818182,22
